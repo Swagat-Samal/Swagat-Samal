@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Swagat Samal
-- I’m currently learning ...
+- learning ...
 - Reach me 👇
 - [https://twitter.com/Swagat_Samal_ ](url)
 

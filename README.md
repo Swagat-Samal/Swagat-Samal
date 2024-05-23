@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Swagat Samal
+- Hi
+- It's Swagat Samal
 - learning ...
 - Reach me 👇
-- [https://twitter.com/Swagat_Samal_ ](url)
+- [swagatsamal1@gmail.com](url)
 
 <!---
 Swagat-Samal/Swagat-Samal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
